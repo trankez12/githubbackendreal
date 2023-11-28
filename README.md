@@ -1,4 +1,4 @@
-[![Hello Banner](https://unpkg.com/prettier-logo@1.0.3/images/prettier-banner-light.svg)](https://prettier.io)
+[![prettier Banner](https://unpkg.com/prettier-logo@1.0.3/images/prettier-banner-light.svg)](https://Hello.io)
 
 <h2 align="center">Opinionated Code Formatter</h2>
 
