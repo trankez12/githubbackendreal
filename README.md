@@ -5,7 +5,8 @@
 <p align="center">
   <em>
     Why was my push rejected?
-    · Git push rejected non-fast-forward means, this error is faced when git cannot commit your changes to the remote repository. This may happen because your commit was lost or if someone else is trying to push to the same branch as you. This is the error you face.
+    · Git push rejected non-fast-forward means, this error is faced when git cannot commit your changes to the remote repository. This may happen because 
+your commit was lost or if someone else is trying to push to the same branch as you. This is the error you face.
   </em>
   <br />
   <em>
@@ -31,3 +32,5 @@
     </a>
   </em>
 </p>
+![error]([image.jpg](https://i.stack.imgur.com/F6D4u.jpg)https://i.stack.imgur.com/F6D4u.jpg)
+
