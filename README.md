@@ -4,33 +4,19 @@
 
 <p align="center">
   <em>
-  ** Why was my push rejected? **
+  Why was my push rejected?
     · Git push rejected non-fast-forward means, this error is faced when git cannot commit your changes to the remote repository. This may happen because 
 your commit was lost or if someone else is trying to push to the same branch as you. This is the error you face.
   </em>
   <br />
   <em>
-    ** How to resolve push error in git? **
+    How to resolve push error in git?
     · If you get a failed to push some refs to error, the main thing to do is git pull to bring your local repo up to date with the remote. Avoid employing the --force flag when using git pull and prevent other developers' accidental overwrites of committed features.
   </em>
   <br />
   <em>
-    HTML
-    · Vue
-    · Angular
-  </em>
-  <br />
-  <em>
-    GraphQL
-    · Markdown
-    · YAML
-  </em>
-  <br />
-  <em>
-    <a href="https://prettier.io/docs/en/plugins.html">
-      Your favorite language?
-    </a>
-  </em>
-</p>
-![error]([image.jpg](https://i.stack.imgur.com/F6D4u.jpg)https://i.stack.imgur.com/F6D4u.jpg)
+     <a ![alt text](![F6D4u](https://github.com/trankez12/githubbackendreal/assets/152085291/70301a29-553d-49b3-9785-39a4562dab7a)
+)
+
+      push rejected?
 
