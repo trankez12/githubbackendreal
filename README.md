@@ -16,6 +16,3 @@ your commit was lost or if someone else is trying to push to the same branch as 
   <br />
   <em>
      <a (![F6D4u](https://github.com/trankez12/githubbackendreal/assets/152085291/70301a29-553d-49b3-9785-39a4562dab7a)
-)
-  push rejected?
-
